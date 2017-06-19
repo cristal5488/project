@@ -1,0 +1,62 @@
+body {
+  background-image: url("https://static1.squarespace.com/static/572d33f1c6fc08291269ef2e/t/572d3b164c2f85ddda87c9a4/1462582050387/background1.jpg?format=1500wg");
+}
+background-image: url("https://watchstreetconsulting.com/wp-content/uploads/2015/04/web_design_desk2.jpg");
+
+
+
+.img-circle {
+    border-radius: 35%;
+}
+
+h2 {
+  font-size: 80px;
+  font-family: papyrus, fantasy;
+  text-align: center;
+  color: #00BFFF;
+}
+h1 {
+  font-family: Papyrus, fantasy;
+	font-size: 100px;
+	font-variant: normal;
+  color: white;
+  text-align: center;
+  margin: 100px;
+}
+.img1{
+  text-align: center;
+  margin: 50px;
+}
+ p {
+  font-family: Papyrus, fantasy;
+  color: white;
+  font-size: 20px;
+  text-align: center;
+}
+
+ul {
+  float: left;
+}
+.profile_pic {
+  text-align: center;
+  margin-top: 30px;
+  opacity: 0.9;
+}
+.moving {
+  color: black;
+  font-size: 40px;
+  font-family: "Adobe Caslon Pro", "Hoefler Text", Georgia, Garamond, Times, serif;
+}
+
+.buttons {
+  text-align: center;
+  font-family: Papyrus, fantasy;
+  margin-top: 100px;
+}
+.buttons a{
+  margin: 10px;
+}
+.social a{
+  text-align: center;
+  margin: 15px;
+}
